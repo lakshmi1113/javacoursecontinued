@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinaryRecursion",
+            "request": "launch",
+            "mainClass": "BinaryRecursion",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "BinaryRecursion1",
+            "request": "launch",
+            "mainClass": "BinaryRecursion1",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "DebugExercise2",
+            "request": "launch",
+            "mainClass": "DebugExercise2",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "FactorialRecursion",
+            "request": "launch",
+            "mainClass": "FactorialRecursion",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "FibRec",
+            "request": "launch",
+            "mainClass": "FibRec",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "HashSets",
+            "request": "launch",
+            "mainClass": "HashSets",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "Hashmaps",
+            "request": "launch",
+            "mainClass": "Hashmaps",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "Hashmaps1",
+            "request": "launch",
+            "mainClass": "Hashmaps1",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "Lists",
+            "request": "launch",
+            "mainClass": "Lists",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "NumberAdd",
+            "request": "launch",
+            "mainClass": "NumberAdd",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "RecursionPowers",
+            "request": "launch",
+            "mainClass": "RecursionPowers",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "StringEncryption",
+            "request": "launch",
+            "mainClass": "StringEncryption",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "StringFunction",
+            "request": "launch",
+            "mainClass": "StringFunction",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "hwArrayList",
+            "request": "launch",
+            "mainClass": "hwArrayList",
+            "projectName": "javacoursecontinued_294340e2"
+        }
+    ]
+}
