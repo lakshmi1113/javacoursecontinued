@@ -28,7 +28,7 @@
 # print(pop(stack), "popped from stack")
 # print(peek(stack),"peeked from stack")
 # print(stack)
-def calculateSpan(p, S):
+def calculateSpan(price, S):
     n = len(price)
     st =[]
     st.append(0)
@@ -37,17 +37,15 @@ def calculateSpan(p, S):
     for i in range(1,n):
         while (len(st)>0 and price[st[-1]] <= price[i]):
             st.pop()
-        if (len(st)==0):
-            S[i] = i+1
-        else:
-            st.append(i)
+        S[i] = i+1 if (len(st)==0) else (i - st[-1])
+        st.append(i)
 
-    def printArr(Array, n):
-        for i in range(0,n):
-            print(Array[i], end =" ")
+def printArr(Array, n):
+    for i in range(0,n):
+        print(Array[i], end =" ")
 
-    price = [10,5,20,15,40,25]
-    S = [0 for i in range(len(price)+1)]
+price = [10,5,20,15,40,25]
+S = [0 for i in range(len(price)+1)]
 
-    calculateSpan(price, S)
-    printArr(S, len(price))
+calculateSpan(price, S)
+printArr(S, len(price))

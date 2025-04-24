@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LibrarySwitch",
+            "request": "launch",
+            "mainClass": "LibrarySwitch",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
             "name": "Queues",
             "request": "launch",
             "mainClass": "Queues",
