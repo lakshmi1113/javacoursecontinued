@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "Bank",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClass",
+            "request": "launch",
+            "mainClass": "AbstractClass",
+            "projectName": "javacoursecontinued_294340e2"
+        },
+        {
+            "type": "java",
             "name": "student",
             "request": "launch",
             "mainClass": "student",
