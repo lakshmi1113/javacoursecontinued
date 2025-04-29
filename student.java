@@ -36,7 +36,7 @@
 // }
 
 public class student{
-   private static String str = "GeeksforGeeks";
+   private static String str = "GeeksforGeekss";
    static class nestedclass{
       public void disp(){
          System.out.println(str);
